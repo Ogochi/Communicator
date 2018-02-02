@@ -9,4 +9,4 @@ Previous version is [here](https://github.com/michal-olt/Komunikator).
 # Features
   * Allows you to send messages to different people based on their IP address and port.
   * Works asynchronously
-  * Keeps live history of your chats
+  * Keeps live history of your messages
